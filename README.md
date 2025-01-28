@@ -8,3 +8,6 @@ Server should run automatically when starting a workspace. To run manually, run:
 ```sh
 npm run dev
 ```
+Please use your own Mongo db atlas database before testing
+
+I am aware that that I pushed the .env file to github. 
